@@ -10,7 +10,7 @@ location = input('Enter Location: ')
 
 key = 'e213e86ba9c548c9b7f92445222209'
 
-address =  'http://api.weatherapi.com/v1/current.json?key=e213e86ba9c548c9b7f92445222209'
+address =  'http://api.weatherapi.com/v1/current.json?key=6de439c9715445fc9e7160014230101'
 
 test = '&'+urllib.parse.urlencode({'q':location})
 
